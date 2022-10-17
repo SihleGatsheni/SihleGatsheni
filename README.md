@@ -1,4 +1,4 @@
-# ♂️Sihle Ndlovu
+#Sihle Ndlovu
 
 **FULL STACK DEVELOPER**
 
