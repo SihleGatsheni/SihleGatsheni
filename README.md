@@ -29,7 +29,7 @@
 
 ## Stats
 
-![Gatsheni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SihleGatsheni&show_icons=true&theme=gruvbox)
+![Gatsheni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SihleGatsheni&show_icons=true&theme=tokyonight)
 
 
 ---
